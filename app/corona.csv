@@ -1,0 +1,1233 @@
+Datum;Kreis;Infizierte;VeraenderungVortag
+2020-02-25;Alb-Donau-Kreis;;
+2020-02-25;Baden-Baden (Stadtkreis);;
+2020-02-25;Biberach;;
+2020-02-25;Bodenseekreis;;
+2020-02-25;Breisgau-Hochschwarzwald;;
+2020-02-25;Böblingen;;
+2020-02-25;Calw;;
+2020-02-25;Emmendingen;;
+2020-02-25;Enzkreis;;
+2020-02-25;Esslingen;;
+2020-02-25;Freiburg im Breisgau (Stadtkreis);;
+2020-02-25;Freudenstadt;;
+2020-02-25;Göppingen;1.0;
+2020-02-25;Heidelberg (Stadtkreis);;
+2020-02-25;Heidenheim;;
+2020-02-25;Heilbronn;;
+2020-02-25;Heilbronn (Stadtkreis);;
+2020-02-25;Hohenlohekreis;;
+2020-02-25;Karlsruhe;;
+2020-02-25;Karlsruhe (Stadtkreis);;
+2020-02-25;Konstanz;;
+2020-02-25;Ludwigsburg;;
+2020-02-25;Lörrach;;
+2020-02-25;Main-Tauber-Kreis;;
+2020-02-25;Mannheim (Stadtkreis);;
+2020-02-25;Neckar-Odenwald-Kreis;;
+2020-02-25;Ortenaukreis;;
+2020-02-25;Ostalbkreis;;
+2020-02-25;Pforzheim (Stadtkreis);;
+2020-02-25;Rastatt;;
+2020-02-25;Ravensburg;;
+2020-02-25;Rems-Murr-Kreis;;
+2020-02-25;Reutlingen;;
+2020-02-25;Rhein-Neckar-Kreis;;
+2020-02-25;Rottweil;;
+2020-02-25;Schwarzwald-Baar-Kreis;;
+2020-02-25;Schwäbisch Hall;;
+2020-02-25;Sigmaringen;;
+2020-02-25;Stuttgart;;
+2020-02-25;Tuttlingen;;
+2020-02-25;Tübingen;;
+2020-02-25;Ulm (Stadtkreis);;
+2020-02-25;Waldshut;;
+2020-02-25;Zollernalbkreis;;
+2020-02-26;Alb-Donau-Kreis;;
+2020-02-26;Baden-Baden (Stadtkreis);;
+2020-02-26;Biberach;;
+2020-02-26;Bodenseekreis;;
+2020-02-26;Breisgau-Hochschwarzwald;;
+2020-02-26;Böblingen;;
+2020-02-26;Calw;;
+2020-02-26;Emmendingen;;
+2020-02-26;Enzkreis;;
+2020-02-26;Esslingen;;
+2020-02-26;Freiburg im Breisgau (Stadtkreis);;
+2020-02-26;Freudenstadt;;
+2020-02-26;Göppingen;1.0;0.0
+2020-02-26;Heidelberg (Stadtkreis);;
+2020-02-26;Heidenheim;;
+2020-02-26;Heilbronn;;
+2020-02-26;Heilbronn (Stadtkreis);;
+2020-02-26;Hohenlohekreis;;
+2020-02-26;Karlsruhe;;
+2020-02-26;Karlsruhe (Stadtkreis);;
+2020-02-26;Konstanz;;
+2020-02-26;Ludwigsburg;;
+2020-02-26;Lörrach;;
+2020-02-26;Main-Tauber-Kreis;;
+2020-02-26;Mannheim (Stadtkreis);;
+2020-02-26;Neckar-Odenwald-Kreis;;
+2020-02-26;Ortenaukreis;;
+2020-02-26;Ostalbkreis;;
+2020-02-26;Pforzheim (Stadtkreis);;
+2020-02-26;Rastatt;;
+2020-02-26;Ravensburg;;
+2020-02-26;Rems-Murr-Kreis;;
+2020-02-26;Reutlingen;;
+2020-02-26;Rhein-Neckar-Kreis;;
+2020-02-26;Rottweil;1.0;
+2020-02-26;Schwarzwald-Baar-Kreis;;
+2020-02-26;Schwäbisch Hall;;
+2020-02-26;Sigmaringen;;
+2020-02-26;Stuttgart;;
+2020-02-26;Tuttlingen;;
+2020-02-26;Tübingen;2.0;
+2020-02-26;Ulm (Stadtkreis);;
+2020-02-26;Waldshut;;
+2020-02-26;Zollernalbkreis;;
+2020-02-27;Alb-Donau-Kreis;;
+2020-02-27;Baden-Baden (Stadtkreis);;
+2020-02-27;Biberach;;
+2020-02-27;Bodenseekreis;;
+2020-02-27;Breisgau-Hochschwarzwald;3.0;
+2020-02-27;Böblingen;1.0;
+2020-02-27;Calw;;
+2020-02-27;Emmendingen;;
+2020-02-27;Enzkreis;;
+2020-02-27;Esslingen;;
+2020-02-27;Freiburg im Breisgau (Stadtkreis);;
+2020-02-27;Freudenstadt;;
+2020-02-27;Göppingen;1.0;0.0
+2020-02-27;Heidelberg (Stadtkreis);;
+2020-02-27;Heidenheim;;
+2020-02-27;Heilbronn;;
+2020-02-27;Heilbronn (Stadtkreis);;
+2020-02-27;Hohenlohekreis;;
+2020-02-27;Karlsruhe;;
+2020-02-27;Karlsruhe (Stadtkreis);;
+2020-02-27;Konstanz;;
+2020-02-27;Ludwigsburg;;
+2020-02-27;Lörrach;;
+2020-02-27;Main-Tauber-Kreis;;
+2020-02-27;Mannheim (Stadtkreis);;
+2020-02-27;Neckar-Odenwald-Kreis;;
+2020-02-27;Ortenaukreis;;
+2020-02-27;Ostalbkreis;;
+2020-02-27;Pforzheim (Stadtkreis);;
+2020-02-27;Rastatt;;
+2020-02-27;Ravensburg;;
+2020-02-27;Rems-Murr-Kreis;;
+2020-02-27;Reutlingen;;
+2020-02-27;Rhein-Neckar-Kreis;;
+2020-02-27;Rottweil;1.0;0.0
+2020-02-27;Schwarzwald-Baar-Kreis;;
+2020-02-27;Schwäbisch Hall;;
+2020-02-27;Sigmaringen;;
+2020-02-27;Stuttgart;;
+2020-02-27;Tuttlingen;;
+2020-02-27;Tübingen;2.0;0.0
+2020-02-27;Ulm (Stadtkreis);;
+2020-02-27;Waldshut;;
+2020-02-27;Zollernalbkreis;;
+2020-02-28;Alb-Donau-Kreis;;
+2020-02-28;Baden-Baden (Stadtkreis);;
+2020-02-28;Biberach;;
+2020-02-28;Bodenseekreis;;
+2020-02-28;Breisgau-Hochschwarzwald;3.0;0.0
+2020-02-28;Böblingen;1.0;0.0
+2020-02-28;Calw;;
+2020-02-28;Emmendingen;;
+2020-02-28;Enzkreis;;
+2020-02-28;Esslingen;;
+2020-02-28;Freiburg im Breisgau (Stadtkreis);1.0;
+2020-02-28;Freudenstadt;;
+2020-02-28;Göppingen;2.0;1.0
+2020-02-28;Heidelberg (Stadtkreis);;
+2020-02-28;Heidenheim;;
+2020-02-28;Heilbronn;1.0;
+2020-02-28;Heilbronn (Stadtkreis);;
+2020-02-28;Hohenlohekreis;;
+2020-02-28;Karlsruhe;1.0;
+2020-02-28;Karlsruhe (Stadtkreis);;
+2020-02-28;Konstanz;;
+2020-02-28;Ludwigsburg;1.0;
+2020-02-28;Lörrach;;
+2020-02-28;Main-Tauber-Kreis;;
+2020-02-28;Mannheim (Stadtkreis);;
+2020-02-28;Neckar-Odenwald-Kreis;;
+2020-02-28;Ortenaukreis;;
+2020-02-28;Ostalbkreis;;
+2020-02-28;Pforzheim (Stadtkreis);;
+2020-02-28;Rastatt;;
+2020-02-28;Ravensburg;;
+2020-02-28;Rems-Murr-Kreis;;
+2020-02-28;Reutlingen;;
+2020-02-28;Rhein-Neckar-Kreis;1.0;
+2020-02-28;Rottweil;1.0;0.0
+2020-02-28;Schwarzwald-Baar-Kreis;;
+2020-02-28;Schwäbisch Hall;;
+2020-02-28;Sigmaringen;;
+2020-02-28;Stuttgart;;
+2020-02-28;Tuttlingen;;
+2020-02-28;Tübingen;2.0;0.0
+2020-02-28;Ulm (Stadtkreis);;
+2020-02-28;Waldshut;;
+2020-02-28;Zollernalbkreis;;
+2020-02-29;Alb-Donau-Kreis;;
+2020-02-29;Baden-Baden (Stadtkreis);;
+2020-02-29;Biberach;;
+2020-02-29;Bodenseekreis;;
+2020-02-29;Breisgau-Hochschwarzwald;3.0;0.0
+2020-02-29;Böblingen;1.0;0.0
+2020-02-29;Calw;;
+2020-02-29;Emmendingen;;
+2020-02-29;Enzkreis;;
+2020-02-29;Esslingen;;
+2020-02-29;Freiburg im Breisgau (Stadtkreis);2.0;1.0
+2020-02-29;Freudenstadt;;
+2020-02-29;Göppingen;2.0;0.0
+2020-02-29;Heidelberg (Stadtkreis);;
+2020-02-29;Heidenheim;;
+2020-02-29;Heilbronn;1.0;0.0
+2020-02-29;Heilbronn (Stadtkreis);;
+2020-02-29;Hohenlohekreis;;
+2020-02-29;Karlsruhe;1.0;0.0
+2020-02-29;Karlsruhe (Stadtkreis);;
+2020-02-29;Konstanz;;
+2020-02-29;Ludwigsburg;1.0;0.0
+2020-02-29;Lörrach;;
+2020-02-29;Main-Tauber-Kreis;;
+2020-02-29;Mannheim (Stadtkreis);;
+2020-02-29;Neckar-Odenwald-Kreis;;
+2020-02-29;Ortenaukreis;;
+2020-02-29;Ostalbkreis;;
+2020-02-29;Pforzheim (Stadtkreis);;
+2020-02-29;Rastatt;;
+2020-02-29;Ravensburg;;
+2020-02-29;Rems-Murr-Kreis;;
+2020-02-29;Reutlingen;;
+2020-02-29;Rhein-Neckar-Kreis;1.0;0.0
+2020-02-29;Rottweil;1.0;0.0
+2020-02-29;Schwarzwald-Baar-Kreis;;
+2020-02-29;Schwäbisch Hall;;
+2020-02-29;Sigmaringen;;
+2020-02-29;Stuttgart;;
+2020-02-29;Tuttlingen;;
+2020-02-29;Tübingen;2.0;0.0
+2020-02-29;Ulm (Stadtkreis);;
+2020-02-29;Waldshut;;
+2020-02-29;Zollernalbkreis;;
+2020-03-01;Alb-Donau-Kreis;;
+2020-03-01;Baden-Baden (Stadtkreis);;
+2020-03-01;Biberach;;
+2020-03-01;Bodenseekreis;;
+2020-03-01;Breisgau-Hochschwarzwald;3.0;0.0
+2020-03-01;Böblingen;1.0;0.0
+2020-03-01;Calw;;
+2020-03-01;Emmendingen;;
+2020-03-01;Enzkreis;;
+2020-03-01;Esslingen;;
+2020-03-01;Freiburg im Breisgau (Stadtkreis);3.0;1.0
+2020-03-01;Freudenstadt;;
+2020-03-01;Göppingen;2.0;0.0
+2020-03-01;Heidelberg (Stadtkreis);;
+2020-03-01;Heidenheim;;
+2020-03-01;Heilbronn;1.0;0.0
+2020-03-01;Heilbronn (Stadtkreis);1.0;
+2020-03-01;Hohenlohekreis;;
+2020-03-01;Karlsruhe;1.0;0.0
+2020-03-01;Karlsruhe (Stadtkreis);;
+2020-03-01;Konstanz;;
+2020-03-01;Ludwigsburg;1.0;0.0
+2020-03-01;Lörrach;;
+2020-03-01;Main-Tauber-Kreis;;
+2020-03-01;Mannheim (Stadtkreis);3.0;
+2020-03-01;Neckar-Odenwald-Kreis;;
+2020-03-01;Ortenaukreis;;
+2020-03-01;Ostalbkreis;;
+2020-03-01;Pforzheim (Stadtkreis);;
+2020-03-01;Rastatt;;
+2020-03-01;Ravensburg;;
+2020-03-01;Rems-Murr-Kreis;;
+2020-03-01;Reutlingen;;
+2020-03-01;Rhein-Neckar-Kreis;1.0;0.0
+2020-03-01;Rottweil;1.0;0.0
+2020-03-01;Schwarzwald-Baar-Kreis;;
+2020-03-01;Schwäbisch Hall;;
+2020-03-01;Sigmaringen;;
+2020-03-01;Stuttgart;;
+2020-03-01;Tuttlingen;;
+2020-03-01;Tübingen;2.0;0.0
+2020-03-01;Ulm (Stadtkreis);;
+2020-03-01;Waldshut;;
+2020-03-01;Zollernalbkreis;;
+2020-03-02;Alb-Donau-Kreis;;
+2020-03-02;Baden-Baden (Stadtkreis);;
+2020-03-02;Biberach;;
+2020-03-02;Bodenseekreis;;
+2020-03-02;Breisgau-Hochschwarzwald;1.0;-2.0
+2020-03-02;Böblingen;1.0;0.0
+2020-03-02;Calw;;
+2020-03-02;Emmendingen;1.0;
+2020-03-02;Enzkreis;;
+2020-03-02;Esslingen;;
+2020-03-02;Freiburg im Breisgau (Stadtkreis);4.0;1.0
+2020-03-02;Freudenstadt;;
+2020-03-02;Göppingen;2.0;0.0
+2020-03-02;Heidelberg (Stadtkreis);;
+2020-03-02;Heidenheim;;
+2020-03-02;Heilbronn;8.0;7.0
+2020-03-02;Heilbronn (Stadtkreis);;
+2020-03-02;Hohenlohekreis;;
+2020-03-02;Karlsruhe;1.0;0.0
+2020-03-02;Karlsruhe (Stadtkreis);;
+2020-03-02;Konstanz;;
+2020-03-02;Ludwigsburg;1.0;0.0
+2020-03-02;Lörrach;;
+2020-03-02;Main-Tauber-Kreis;;
+2020-03-02;Mannheim (Stadtkreis);3.0;0.0
+2020-03-02;Neckar-Odenwald-Kreis;;
+2020-03-02;Ortenaukreis;;
+2020-03-02;Ostalbkreis;;
+2020-03-02;Pforzheim (Stadtkreis);;
+2020-03-02;Rastatt;;
+2020-03-02;Ravensburg;;
+2020-03-02;Rems-Murr-Kreis;;
+2020-03-02;Reutlingen;;
+2020-03-02;Rhein-Neckar-Kreis;1.0;0.0
+2020-03-02;Rottweil;1.0;0.0
+2020-03-02;Schwarzwald-Baar-Kreis;;
+2020-03-02;Schwäbisch Hall;;
+2020-03-02;Sigmaringen;;
+2020-03-02;Stuttgart;;
+2020-03-02;Tuttlingen;;
+2020-03-02;Tübingen;2.0;0.0
+2020-03-02;Ulm (Stadtkreis);1.0;
+2020-03-02;Waldshut;;
+2020-03-02;Zollernalbkreis;1.0;
+2020-03-03;Alb-Donau-Kreis;;
+2020-03-03;Baden-Baden (Stadtkreis);;
+2020-03-03;Biberach;;
+2020-03-03;Bodenseekreis;;
+2020-03-03;Breisgau-Hochschwarzwald;1.0;0.0
+2020-03-03;Böblingen;1.0;0.0
+2020-03-03;Calw;;
+2020-03-03;Emmendingen;1.0;0.0
+2020-03-03;Enzkreis;;
+2020-03-03;Esslingen;5.0;
+2020-03-03;Freiburg im Breisgau (Stadtkreis);4.0;0.0
+2020-03-03;Freudenstadt;;
+2020-03-03;Göppingen;2.0;0.0
+2020-03-03;Heidelberg (Stadtkreis);;
+2020-03-03;Heidenheim;;
+2020-03-03;Heilbronn;8.0;0.0
+2020-03-03;Heilbronn (Stadtkreis);;
+2020-03-03;Hohenlohekreis;;
+2020-03-03;Karlsruhe;1.0;0.0
+2020-03-03;Karlsruhe (Stadtkreis);;
+2020-03-03;Konstanz;;
+2020-03-03;Ludwigsburg;2.0;1.0
+2020-03-03;Lörrach;1.0;
+2020-03-03;Main-Tauber-Kreis;;
+2020-03-03;Mannheim (Stadtkreis);3.0;0.0
+2020-03-03;Neckar-Odenwald-Kreis;;
+2020-03-03;Ortenaukreis;;
+2020-03-03;Ostalbkreis;1.0;
+2020-03-03;Pforzheim (Stadtkreis);;
+2020-03-03;Rastatt;;
+2020-03-03;Ravensburg;;
+2020-03-03;Rems-Murr-Kreis;1.0;
+2020-03-03;Reutlingen;;
+2020-03-03;Rhein-Neckar-Kreis;1.0;0.0
+2020-03-03;Rottweil;1.0;0.0
+2020-03-03;Schwarzwald-Baar-Kreis;;
+2020-03-03;Schwäbisch Hall;;
+2020-03-03;Sigmaringen;;
+2020-03-03;Stuttgart;;
+2020-03-03;Tuttlingen;;
+2020-03-03;Tübingen;2.0;0.0
+2020-03-03;Ulm (Stadtkreis);1.0;0.0
+2020-03-03;Waldshut;;
+2020-03-03;Zollernalbkreis;1.0;0.0
+2020-03-04;Alb-Donau-Kreis;2.0;
+2020-03-04;Baden-Baden (Stadtkreis);;
+2020-03-04;Biberach;;
+2020-03-04;Bodenseekreis;1.0;
+2020-03-04;Breisgau-Hochschwarzwald;4.0;3.0
+2020-03-04;Böblingen;1.0;0.0
+2020-03-04;Calw;;
+2020-03-04;Emmendingen;;
+2020-03-04;Enzkreis;;
+2020-03-04;Esslingen;5.0;0.0
+2020-03-04;Freiburg im Breisgau (Stadtkreis);6.0;2.0
+2020-03-04;Freudenstadt;;
+2020-03-04;Göppingen;2.0;0.0
+2020-03-04;Heidelberg (Stadtkreis);2.0;
+2020-03-04;Heidenheim;1.0;
+2020-03-04;Heilbronn;10.0;2.0
+2020-03-04;Heilbronn (Stadtkreis);2.0;
+2020-03-04;Hohenlohekreis;;
+2020-03-04;Karlsruhe;1.0;0.0
+2020-03-04;Karlsruhe (Stadtkreis);;
+2020-03-04;Konstanz;;
+2020-03-04;Ludwigsburg;3.0;1.0
+2020-03-04;Lörrach;1.0;0.0
+2020-03-04;Main-Tauber-Kreis;1.0;
+2020-03-04;Mannheim (Stadtkreis);4.0;1.0
+2020-03-04;Neckar-Odenwald-Kreis;;
+2020-03-04;Ortenaukreis;;
+2020-03-04;Ostalbkreis;3.0;2.0
+2020-03-04;Pforzheim (Stadtkreis);;
+2020-03-04;Rastatt;;
+2020-03-04;Ravensburg;;
+2020-03-04;Rems-Murr-Kreis;2.0;1.0
+2020-03-04;Reutlingen;;
+2020-03-04;Rhein-Neckar-Kreis;2.0;1.0
+2020-03-04;Rottweil;1.0;0.0
+2020-03-04;Schwarzwald-Baar-Kreis;;
+2020-03-04;Schwäbisch Hall;;
+2020-03-04;Sigmaringen;1.0;
+2020-03-04;Stuttgart;2.0;
+2020-03-04;Tuttlingen;;
+2020-03-04;Tübingen;2.0;0.0
+2020-03-04;Ulm (Stadtkreis);4.0;3.0
+2020-03-04;Waldshut;;
+2020-03-04;Zollernalbkreis;2.0;1.0
+2020-03-05;Alb-Donau-Kreis;2.0;0.0
+2020-03-05;Baden-Baden (Stadtkreis);;
+2020-03-05;Biberach;;
+2020-03-05;Bodenseekreis;3.0;2.0
+2020-03-05;Breisgau-Hochschwarzwald;4.0;0.0
+2020-03-05;Böblingen;1.0;0.0
+2020-03-05;Calw;;
+2020-03-05;Emmendingen;;
+2020-03-05;Enzkreis;;
+2020-03-05;Esslingen;13.0;8.0
+2020-03-05;Freiburg im Breisgau (Stadtkreis);6.0;0.0
+2020-03-05;Freudenstadt;;
+2020-03-05;Göppingen;2.0;0.0
+2020-03-05;Heidelberg (Stadtkreis);2.0;0.0
+2020-03-05;Heidenheim;1.0;0.0
+2020-03-05;Heilbronn;10.0;0.0
+2020-03-05;Heilbronn (Stadtkreis);2.0;0.0
+2020-03-05;Hohenlohekreis;1.0;
+2020-03-05;Karlsruhe;2.0;1.0
+2020-03-05;Karlsruhe (Stadtkreis);;
+2020-03-05;Konstanz;;
+2020-03-05;Ludwigsburg;3.0;0.0
+2020-03-05;Lörrach;1.0;0.0
+2020-03-05;Main-Tauber-Kreis;1.0;0.0
+2020-03-05;Mannheim (Stadtkreis);4.0;0.0
+2020-03-05;Neckar-Odenwald-Kreis;;
+2020-03-05;Ortenaukreis;;
+2020-03-05;Ostalbkreis;3.0;0.0
+2020-03-05;Pforzheim (Stadtkreis);;
+2020-03-05;Rastatt;;
+2020-03-05;Ravensburg;1.0;
+2020-03-05;Rems-Murr-Kreis;2.0;0.0
+2020-03-05;Reutlingen;;
+2020-03-05;Rhein-Neckar-Kreis;3.0;1.0
+2020-03-05;Rottweil;1.0;0.0
+2020-03-05;Schwarzwald-Baar-Kreis;;
+2020-03-05;Schwäbisch Hall;;
+2020-03-05;Sigmaringen;1.0;0.0
+2020-03-05;Stuttgart;3.0;1.0
+2020-03-05;Tuttlingen;;
+2020-03-05;Tübingen;2.0;0.0
+2020-03-05;Ulm (Stadtkreis);4.0;0.0
+2020-03-05;Waldshut;;
+2020-03-05;Zollernalbkreis;11.0;9.0
+2020-03-06;Alb-Donau-Kreis;2.0;0.0
+2020-03-06;Baden-Baden (Stadtkreis);;
+2020-03-06;Biberach;1.0;
+2020-03-06;Bodenseekreis;4.0;1.0
+2020-03-06;Breisgau-Hochschwarzwald;4.0;0.0
+2020-03-06;Böblingen;3.0;2.0
+2020-03-06;Calw;1.0;
+2020-03-06;Emmendingen;1.0;
+2020-03-06;Enzkreis;;
+2020-03-06;Esslingen;14.0;1.0
+2020-03-06;Freiburg im Breisgau (Stadtkreis);8.0;2.0
+2020-03-06;Freudenstadt;;
+2020-03-06;Göppingen;2.0;0.0
+2020-03-06;Heidelberg (Stadtkreis);2.0;0.0
+2020-03-06;Heidenheim;1.0;0.0
+2020-03-06;Heilbronn;14.0;4.0
+2020-03-06;Heilbronn (Stadtkreis);3.0;1.0
+2020-03-06;Hohenlohekreis;1.0;0.0
+2020-03-06;Karlsruhe;3.0;1.0
+2020-03-06;Karlsruhe (Stadtkreis);;
+2020-03-06;Konstanz;;
+2020-03-06;Ludwigsburg;5.0;2.0
+2020-03-06;Lörrach;1.0;0.0
+2020-03-06;Main-Tauber-Kreis;2.0;1.0
+2020-03-06;Mannheim (Stadtkreis);5.0;1.0
+2020-03-06;Neckar-Odenwald-Kreis;1.0;
+2020-03-06;Ortenaukreis;2.0;
+2020-03-06;Ostalbkreis;3.0;0.0
+2020-03-06;Pforzheim (Stadtkreis);;
+2020-03-06;Rastatt;;
+2020-03-06;Ravensburg;2.0;1.0
+2020-03-06;Rems-Murr-Kreis;4.0;2.0
+2020-03-06;Reutlingen;;
+2020-03-06;Rhein-Neckar-Kreis;4.0;1.0
+2020-03-06;Rottweil;1.0;0.0
+2020-03-06;Schwarzwald-Baar-Kreis;;
+2020-03-06;Schwäbisch Hall;;
+2020-03-06;Sigmaringen;1.0;0.0
+2020-03-06;Stuttgart;4.0;1.0
+2020-03-06;Tuttlingen;;
+2020-03-06;Tübingen;2.0;0.0
+2020-03-06;Ulm (Stadtkreis);4.0;0.0
+2020-03-06;Waldshut;;
+2020-03-06;Zollernalbkreis;11.0;0.0
+2020-03-07;Alb-Donau-Kreis;3.0;1.0
+2020-03-07;Baden-Baden (Stadtkreis);1.0;
+2020-03-07;Biberach;3.0;2.0
+2020-03-07;Bodenseekreis;4.0;0.0
+2020-03-07;Breisgau-Hochschwarzwald;5.0;1.0
+2020-03-07;Böblingen;3.0;0.0
+2020-03-07;Calw;1.0;0.0
+2020-03-07;Emmendingen;3.0;2.0
+2020-03-07;Enzkreis;1.0;
+2020-03-07;Esslingen;16.0;2.0
+2020-03-07;Freiburg im Breisgau (Stadtkreis);8.0;0.0
+2020-03-07;Freudenstadt;;
+2020-03-07;Göppingen;3.0;1.0
+2020-03-07;Heidelberg (Stadtkreis);5.0;3.0
+2020-03-07;Heidenheim;3.0;2.0
+2020-03-07;Heilbronn;20.0;6.0
+2020-03-07;Heilbronn (Stadtkreis);3.0;0.0
+2020-03-07;Hohenlohekreis;1.0;0.0
+2020-03-07;Karlsruhe;7.0;4.0
+2020-03-07;Karlsruhe (Stadtkreis);;
+2020-03-07;Konstanz;1.0;
+2020-03-07;Ludwigsburg;7.0;2.0
+2020-03-07;Lörrach;1.0;0.0
+2020-03-07;Main-Tauber-Kreis;23.0;21.0
+2020-03-07;Mannheim (Stadtkreis);7.0;2.0
+2020-03-07;Neckar-Odenwald-Kreis;1.0;0.0
+2020-03-07;Ortenaukreis;6.0;4.0
+2020-03-07;Ostalbkreis;3.0;0.0
+2020-03-07;Pforzheim (Stadtkreis);;
+2020-03-07;Rastatt;2.0;
+2020-03-07;Ravensburg;2.0;0.0
+2020-03-07;Rems-Murr-Kreis;4.0;0.0
+2020-03-07;Reutlingen;;
+2020-03-07;Rhein-Neckar-Kreis;7.0;3.0
+2020-03-07;Rottweil;1.0;0.0
+2020-03-07;Schwarzwald-Baar-Kreis;1.0;
+2020-03-07;Schwäbisch Hall;;
+2020-03-07;Sigmaringen;1.0;0.0
+2020-03-07;Stuttgart;8.0;4.0
+2020-03-07;Tuttlingen;;
+2020-03-07;Tübingen;2.0;0.0
+2020-03-07;Ulm (Stadtkreis);4.0;0.0
+2020-03-07;Waldshut;;
+2020-03-07;Zollernalbkreis;11.0;0.0
+2020-03-08;Alb-Donau-Kreis;3.0;0.0
+2020-03-08;Baden-Baden (Stadtkreis);1.0;0.0
+2020-03-08;Biberach;3.0;0.0
+2020-03-08;Bodenseekreis;4.0;0.0
+2020-03-08;Breisgau-Hochschwarzwald;5.0;0.0
+2020-03-08;Böblingen;3.0;0.0
+2020-03-08;Calw;1.0;0.0
+2020-03-08;Emmendingen;12.0;9.0
+2020-03-08;Enzkreis;1.0;0.0
+2020-03-08;Esslingen;16.0;0.0
+2020-03-08;Freiburg im Breisgau (Stadtkreis);8.0;0.0
+2020-03-08;Freudenstadt;;
+2020-03-08;Göppingen;3.0;0.0
+2020-03-08;Heidelberg (Stadtkreis);5.0;0.0
+2020-03-08;Heidenheim;3.0;0.0
+2020-03-08;Heilbronn;20.0;0.0
+2020-03-08;Heilbronn (Stadtkreis);3.0;0.0
+2020-03-08;Hohenlohekreis;1.0;0.0
+2020-03-08;Karlsruhe;7.0;0.0
+2020-03-08;Karlsruhe (Stadtkreis);;
+2020-03-08;Konstanz;1.0;0.0
+2020-03-08;Ludwigsburg;7.0;0.0
+2020-03-08;Lörrach;1.0;0.0
+2020-03-08;Main-Tauber-Kreis;23.0;0.0
+2020-03-08;Mannheim (Stadtkreis);7.0;0.0
+2020-03-08;Neckar-Odenwald-Kreis;1.0;0.0
+2020-03-08;Ortenaukreis;7.0;1.0
+2020-03-08;Ostalbkreis;3.0;0.0
+2020-03-08;Pforzheim (Stadtkreis);;
+2020-03-08;Rastatt;3.0;1.0
+2020-03-08;Ravensburg;3.0;1.0
+2020-03-08;Rems-Murr-Kreis;5.0;1.0
+2020-03-08;Reutlingen;;
+2020-03-08;Rhein-Neckar-Kreis;10.0;3.0
+2020-03-08;Rottweil;1.0;0.0
+2020-03-08;Schwarzwald-Baar-Kreis;1.0;0.0
+2020-03-08;Schwäbisch Hall;;
+2020-03-08;Sigmaringen;1.0;0.0
+2020-03-08;Stuttgart;9.0;1.0
+2020-03-08;Tuttlingen;;
+2020-03-08;Tübingen;2.0;0.0
+2020-03-08;Ulm (Stadtkreis);4.0;0.0
+2020-03-08;Waldshut;;
+2020-03-08;Zollernalbkreis;11.0;0.0
+2020-03-09;Alb-Donau-Kreis;3.0;0.0
+2020-03-09;Baden-Baden (Stadtkreis);1.0;0.0
+2020-03-09;Biberach;3.0;0.0
+2020-03-09;Bodenseekreis;4.0;0.0
+2020-03-09;Breisgau-Hochschwarzwald;6.0;1.0
+2020-03-09;Böblingen;3.0;0.0
+2020-03-09;Calw;2.0;1.0
+2020-03-09;Emmendingen;13.0;1.0
+2020-03-09;Enzkreis;1.0;0.0
+2020-03-09;Esslingen;18.0;2.0
+2020-03-09;Freiburg im Breisgau (Stadtkreis);12.0;4.0
+2020-03-09;Freudenstadt;;
+2020-03-09;Göppingen;3.0;0.0
+2020-03-09;Heidelberg (Stadtkreis);5.0;0.0
+2020-03-09;Heidenheim;3.0;0.0
+2020-03-09;Heilbronn;26.0;6.0
+2020-03-09;Heilbronn (Stadtkreis);3.0;0.0
+2020-03-09;Hohenlohekreis;2.0;1.0
+2020-03-09;Karlsruhe;7.0;0.0
+2020-03-09;Karlsruhe (Stadtkreis);;
+2020-03-09;Konstanz;1.0;0.0
+2020-03-09;Ludwigsburg;8.0;1.0
+2020-03-09;Lörrach;1.0;0.0
+2020-03-09;Main-Tauber-Kreis;24.0;1.0
+2020-03-09;Mannheim (Stadtkreis);9.0;2.0
+2020-03-09;Neckar-Odenwald-Kreis;1.0;0.0
+2020-03-09;Ortenaukreis;12.0;5.0
+2020-03-09;Ostalbkreis;4.0;1.0
+2020-03-09;Pforzheim (Stadtkreis);;
+2020-03-09;Rastatt;3.0;0.0
+2020-03-09;Ravensburg;3.0;0.0
+2020-03-09;Rems-Murr-Kreis;5.0;0.0
+2020-03-09;Reutlingen;;
+2020-03-09;Rhein-Neckar-Kreis;13.0;3.0
+2020-03-09;Rottweil;1.0;0.0
+2020-03-09;Schwarzwald-Baar-Kreis;1.0;0.0
+2020-03-09;Schwäbisch Hall;1.0;
+2020-03-09;Sigmaringen;1.0;0.0
+2020-03-09;Stuttgart;10.0;1.0
+2020-03-09;Tuttlingen;;
+2020-03-09;Tübingen;3.0;1.0
+2020-03-09;Ulm (Stadtkreis);5.0;1.0
+2020-03-09;Waldshut;;
+2020-03-09;Zollernalbkreis;11.0;0.0
+2020-03-10;Alb-Donau-Kreis;3.0;0.0
+2020-03-10;Baden-Baden (Stadtkreis);1.0;0.0
+2020-03-10;Biberach;3.0;0.0
+2020-03-10;Bodenseekreis;5.0;1.0
+2020-03-10;Breisgau-Hochschwarzwald;6.0;0.0
+2020-03-10;Böblingen;4.0;1.0
+2020-03-10;Calw;6.0;4.0
+2020-03-10;Emmendingen;13.0;0.0
+2020-03-10;Enzkreis;1.0;0.0
+2020-03-10;Esslingen;23.0;5.0
+2020-03-10;Freiburg im Breisgau (Stadtkreis);12.0;0.0
+2020-03-10;Freudenstadt;1.0;
+2020-03-10;Göppingen;4.0;1.0
+2020-03-10;Heidelberg (Stadtkreis);5.0;0.0
+2020-03-10;Heidenheim;3.0;0.0
+2020-03-10;Heilbronn;26.0;0.0
+2020-03-10;Heilbronn (Stadtkreis);3.0;0.0
+2020-03-10;Hohenlohekreis;2.0;0.0
+2020-03-10;Karlsruhe;9.0;2.0
+2020-03-10;Karlsruhe (Stadtkreis);2.0;
+2020-03-10;Konstanz;1.0;0.0
+2020-03-10;Ludwigsburg;11.0;3.0
+2020-03-10;Lörrach;1.0;0.0
+2020-03-10;Main-Tauber-Kreis;24.0;0.0
+2020-03-10;Mannheim (Stadtkreis);9.0;0.0
+2020-03-10;Neckar-Odenwald-Kreis;1.0;0.0
+2020-03-10;Ortenaukreis;12.0;0.0
+2020-03-10;Ostalbkreis;4.0;0.0
+2020-03-10;Pforzheim (Stadtkreis);;
+2020-03-10;Rastatt;4.0;1.0
+2020-03-10;Ravensburg;6.0;3.0
+2020-03-10;Rems-Murr-Kreis;6.0;1.0
+2020-03-10;Reutlingen;1.0;
+2020-03-10;Rhein-Neckar-Kreis;14.0;1.0
+2020-03-10;Rottweil;1.0;0.0
+2020-03-10;Schwarzwald-Baar-Kreis;1.0;0.0
+2020-03-10;Schwäbisch Hall;1.0;0.0
+2020-03-10;Sigmaringen;3.0;2.0
+2020-03-10;Stuttgart;19.0;9.0
+2020-03-10;Tuttlingen;;
+2020-03-10;Tübingen;5.0;2.0
+2020-03-10;Ulm (Stadtkreis);6.0;1.0
+2020-03-10;Waldshut;;
+2020-03-10;Zollernalbkreis;15.0;4.0
+2020-03-11;Alb-Donau-Kreis;4.0;1.0
+2020-03-11;Baden-Baden (Stadtkreis);2.0;1.0
+2020-03-11;Biberach;3.0;0.0
+2020-03-11;Bodenseekreis;6.0;1.0
+2020-03-11;Breisgau-Hochschwarzwald;12.0;6.0
+2020-03-11;Böblingen;4.0;0.0
+2020-03-11;Calw;7.0;1.0
+2020-03-11;Emmendingen;15.0;2.0
+2020-03-11;Enzkreis;2.0;1.0
+2020-03-11;Esslingen;43.0;20.0
+2020-03-11;Freiburg im Breisgau (Stadtkreis);13.0;1.0
+2020-03-11;Freudenstadt;1.0;0.0
+2020-03-11;Göppingen;1.0;-3.0
+2020-03-11;Heidelberg (Stadtkreis);2.0;-3.0
+2020-03-11;Heidenheim;4.0;1.0
+2020-03-11;Heilbronn;30.0;4.0
+2020-03-11;Heilbronn (Stadtkreis);;
+2020-03-11;Hohenlohekreis;6.0;4.0
+2020-03-11;Karlsruhe;12.0;3.0
+2020-03-11;Karlsruhe (Stadtkreis);3.0;1.0
+2020-03-11;Konstanz;2.0;1.0
+2020-03-11;Ludwigsburg;11.0;0.0
+2020-03-11;Lörrach;;
+2020-03-11;Main-Tauber-Kreis;24.0;0.0
+2020-03-11;Mannheim (Stadtkreis);12.0;3.0
+2020-03-11;Neckar-Odenwald-Kreis;2.0;1.0
+2020-03-11;Ortenaukreis;13.0;1.0
+2020-03-11;Ostalbkreis;5.0;1.0
+2020-03-11;Pforzheim (Stadtkreis);3.0;
+2020-03-11;Rastatt;3.0;-1.0
+2020-03-11;Ravensburg;5.0;-1.0
+2020-03-11;Rems-Murr-Kreis;5.0;-1.0
+2020-03-11;Reutlingen;5.0;4.0
+2020-03-11;Rhein-Neckar-Kreis;18.0;4.0
+2020-03-11;Rottweil;1.0;0.0
+2020-03-11;Schwarzwald-Baar-Kreis;2.0;1.0
+2020-03-11;Schwäbisch Hall;;
+2020-03-11;Sigmaringen;3.0;0.0
+2020-03-11;Stuttgart;24.0;5.0
+2020-03-11;Tuttlingen;;
+2020-03-11;Tübingen;3.0;-2.0
+2020-03-11;Ulm (Stadtkreis);5.0;-1.0
+2020-03-11;Waldshut;;
+2020-03-11;Zollernalbkreis;19.0;4.0
+2020-03-12;Alb-Donau-Kreis;6.0;2.0
+2020-03-12;Baden-Baden (Stadtkreis);3.0;1.0
+2020-03-12;Biberach;4.0;1.0
+2020-03-12;Bodenseekreis;4.0;-2.0
+2020-03-12;Breisgau-Hochschwarzwald;18.0;6.0
+2020-03-12;Böblingen;4.0;0.0
+2020-03-12;Calw;12.0;5.0
+2020-03-12;Emmendingen;16.0;1.0
+2020-03-12;Enzkreis;3.0;1.0
+2020-03-12;Esslingen;47.0;4.0
+2020-03-12;Freiburg im Breisgau (Stadtkreis);18.0;5.0
+2020-03-12;Freudenstadt;2.0;1.0
+2020-03-12;Göppingen;3.0;2.0
+2020-03-12;Heidelberg (Stadtkreis);2.0;0.0
+2020-03-12;Heidenheim;8.0;4.0
+2020-03-12;Heilbronn;32.0;2.0
+2020-03-12;Heilbronn (Stadtkreis);1.0;
+2020-03-12;Hohenlohekreis;8.0;2.0
+2020-03-12;Karlsruhe;16.0;4.0
+2020-03-12;Karlsruhe (Stadtkreis);8.0;5.0
+2020-03-12;Konstanz;2.0;0.0
+2020-03-12;Ludwigsburg;18.0;7.0
+2020-03-12;Lörrach;4.0;
+2020-03-12;Main-Tauber-Kreis;24.0;0.0
+2020-03-12;Mannheim (Stadtkreis);12.0;0.0
+2020-03-12;Neckar-Odenwald-Kreis;2.0;0.0
+2020-03-12;Ortenaukreis;13.0;0.0
+2020-03-12;Ostalbkreis;7.0;2.0
+2020-03-12;Pforzheim (Stadtkreis);4.0;1.0
+2020-03-12;Rastatt;11.0;8.0
+2020-03-12;Ravensburg;5.0;0.0
+2020-03-12;Rems-Murr-Kreis;10.0;5.0
+2020-03-12;Reutlingen;7.0;2.0
+2020-03-12;Rhein-Neckar-Kreis;28.0;10.0
+2020-03-12;Rottweil;1.0;0.0
+2020-03-12;Schwarzwald-Baar-Kreis;2.0;0.0
+2020-03-12;Schwäbisch Hall;15.0;
+2020-03-12;Sigmaringen;4.0;1.0
+2020-03-12;Stuttgart;35.0;11.0
+2020-03-12;Tuttlingen;;
+2020-03-12;Tübingen;9.0;6.0
+2020-03-12;Ulm (Stadtkreis);5.0;0.0
+2020-03-12;Waldshut;;
+2020-03-12;Zollernalbkreis;21.0;2.0
+2020-03-13;Alb-Donau-Kreis;6.0;0.0
+2020-03-13;Baden-Baden (Stadtkreis);3.0;0.0
+2020-03-13;Biberach;5.0;1.0
+2020-03-13;Bodenseekreis;8.0;4.0
+2020-03-13;Breisgau-Hochschwarzwald;19.0;1.0
+2020-03-13;Böblingen;9.0;5.0
+2020-03-13;Calw;15.0;3.0
+2020-03-13;Emmendingen;17.0;1.0
+2020-03-13;Enzkreis;3.0;0.0
+2020-03-13;Esslingen;65.0;18.0
+2020-03-13;Freiburg im Breisgau (Stadtkreis);18.0;0.0
+2020-03-13;Freudenstadt;2.0;0.0
+2020-03-13;Göppingen;14.0;11.0
+2020-03-13;Heidelberg (Stadtkreis);2.0;0.0
+2020-03-13;Heidenheim;8.0;0.0
+2020-03-13;Heilbronn;32.0;0.0
+2020-03-13;Heilbronn (Stadtkreis);1.0;0.0
+2020-03-13;Hohenlohekreis;8.0;0.0
+2020-03-13;Karlsruhe;16.0;0.0
+2020-03-13;Karlsruhe (Stadtkreis);8.0;0.0
+2020-03-13;Konstanz;7.0;5.0
+2020-03-13;Ludwigsburg;24.0;6.0
+2020-03-13;Lörrach;6.0;2.0
+2020-03-13;Main-Tauber-Kreis;28.0;4.0
+2020-03-13;Mannheim (Stadtkreis);22.0;10.0
+2020-03-13;Neckar-Odenwald-Kreis;4.0;2.0
+2020-03-13;Ortenaukreis;16.0;3.0
+2020-03-13;Ostalbkreis;13.0;6.0
+2020-03-13;Pforzheim (Stadtkreis);4.0;0.0
+2020-03-13;Rastatt;12.0;1.0
+2020-03-13;Ravensburg;8.0;3.0
+2020-03-13;Rems-Murr-Kreis;23.0;13.0
+2020-03-13;Reutlingen;11.0;4.0
+2020-03-13;Rhein-Neckar-Kreis;28.0;0.0
+2020-03-13;Rottweil;2.0;1.0
+2020-03-13;Schwarzwald-Baar-Kreis;3.0;1.0
+2020-03-13;Schwäbisch Hall;17.0;2.0
+2020-03-13;Sigmaringen;6.0;2.0
+2020-03-13;Stuttgart;40.0;5.0
+2020-03-13;Tuttlingen;;
+2020-03-13;Tübingen;9.0;0.0
+2020-03-13;Ulm (Stadtkreis);5.0;0.0
+2020-03-13;Waldshut;1.0;
+2020-03-13;Zollernalbkreis;21.0;0.0
+2020-03-14;Alb-Donau-Kreis;7.0;1.0
+2020-03-14;Baden-Baden (Stadtkreis);4.0;1.0
+2020-03-14;Biberach;5.0;0.0
+2020-03-14;Bodenseekreis;13.0;5.0
+2020-03-14;Breisgau-Hochschwarzwald;26.0;7.0
+2020-03-14;Böblingen;9.0;0.0
+2020-03-14;Calw;26.0;11.0
+2020-03-14;Emmendingen;21.0;4.0
+2020-03-14;Enzkreis;3.0;0.0
+2020-03-14;Esslingen;82.0;17.0
+2020-03-14;Freiburg im Breisgau (Stadtkreis);34.0;16.0
+2020-03-14;Freudenstadt;3.0;1.0
+2020-03-14;Göppingen;16.0;2.0
+2020-03-14;Heidelberg (Stadtkreis);3.0;1.0
+2020-03-14;Heidenheim;19.0;11.0
+2020-03-14;Heilbronn;37.0;5.0
+2020-03-14;Heilbronn (Stadtkreis);4.0;3.0
+2020-03-14;Hohenlohekreis;29.0;21.0
+2020-03-14;Karlsruhe;29.0;13.0
+2020-03-14;Karlsruhe (Stadtkreis);14.0;6.0
+2020-03-14;Konstanz;20.0;13.0
+2020-03-14;Ludwigsburg;38.0;14.0
+2020-03-14;Lörrach;10.0;4.0
+2020-03-14;Main-Tauber-Kreis;30.0;2.0
+2020-03-14;Mannheim (Stadtkreis);27.0;5.0
+2020-03-14;Neckar-Odenwald-Kreis;6.0;2.0
+2020-03-14;Ortenaukreis;22.0;6.0
+2020-03-14;Ostalbkreis;20.0;7.0
+2020-03-14;Pforzheim (Stadtkreis);4.0;0.0
+2020-03-14;Rastatt;19.0;7.0
+2020-03-14;Ravensburg;8.0;0.0
+2020-03-14;Rems-Murr-Kreis;23.0;0.0
+2020-03-14;Reutlingen;19.0;8.0
+2020-03-14;Rhein-Neckar-Kreis;38.0;10.0
+2020-03-14;Rottweil;3.0;1.0
+2020-03-14;Schwarzwald-Baar-Kreis;6.0;3.0
+2020-03-14;Schwäbisch Hall;21.0;4.0
+2020-03-14;Sigmaringen;12.0;6.0
+2020-03-14;Stuttgart;60.0;20.0
+2020-03-14;Tuttlingen;3.0;
+2020-03-14;Tübingen;23.0;14.0
+2020-03-14;Ulm (Stadtkreis);7.0;2.0
+2020-03-14;Waldshut;3.0;2.0
+2020-03-14;Zollernalbkreis;21.0;0.0
+2020-03-15;Alb-Donau-Kreis;12.0;5.0
+2020-03-15;Baden-Baden (Stadtkreis);5.0;1.0
+2020-03-15;Biberach;5.0;0.0
+2020-03-15;Bodenseekreis;13.0;0.0
+2020-03-15;Breisgau-Hochschwarzwald;42.0;16.0
+2020-03-15;Böblingen;9.0;0.0
+2020-03-15;Calw;34.0;8.0
+2020-03-15;Emmendingen;35.0;14.0
+2020-03-15;Enzkreis;3.0;0.0
+2020-03-15;Esslingen;111.0;29.0
+2020-03-15;Freiburg im Breisgau (Stadtkreis);43.0;9.0
+2020-03-15;Freudenstadt;7.0;4.0
+2020-03-15;Göppingen;16.0;0.0
+2020-03-15;Heidelberg (Stadtkreis);3.0;0.0
+2020-03-15;Heidenheim;21.0;2.0
+2020-03-15;Heilbronn;47.0;10.0
+2020-03-15;Heilbronn (Stadtkreis);4.0;0.0
+2020-03-15;Hohenlohekreis;29.0;0.0
+2020-03-15;Karlsruhe;29.0;0.0
+2020-03-15;Karlsruhe (Stadtkreis);14.0;0.0
+2020-03-15;Konstanz;20.0;0.0
+2020-03-15;Ludwigsburg;38.0;0.0
+2020-03-15;Lörrach;10.0;0.0
+2020-03-15;Main-Tauber-Kreis;31.0;1.0
+2020-03-15;Mannheim (Stadtkreis);27.0;0.0
+2020-03-15;Neckar-Odenwald-Kreis;10.0;4.0
+2020-03-15;Ortenaukreis;25.0;3.0
+2020-03-15;Ostalbkreis;31.0;11.0
+2020-03-15;Pforzheim (Stadtkreis);4.0;0.0
+2020-03-15;Rastatt;26.0;7.0
+2020-03-15;Ravensburg;8.0;0.0
+2020-03-15;Rems-Murr-Kreis;23.0;0.0
+2020-03-15;Reutlingen;19.0;0.0
+2020-03-15;Rhein-Neckar-Kreis;38.0;0.0
+2020-03-15;Rottweil;3.0;0.0
+2020-03-15;Schwarzwald-Baar-Kreis;6.0;0.0
+2020-03-15;Schwäbisch Hall;21.0;0.0
+2020-03-15;Sigmaringen;12.0;0.0
+2020-03-15;Stuttgart;60.0;0.0
+2020-03-15;Tuttlingen;5.0;2.0
+2020-03-15;Tübingen;41.0;18.0
+2020-03-15;Ulm (Stadtkreis);12.0;5.0
+2020-03-15;Waldshut;4.0;1.0
+2020-03-15;Zollernalbkreis;21.0;0.0
+2020-03-16;Alb-Donau-Kreis;13.0;1.0
+2020-03-16;Baden-Baden (Stadtkreis);7.0;2.0
+2020-03-16;Biberach;5.0;0.0
+2020-03-16;Bodenseekreis;29.0;16.0
+2020-03-16;Breisgau-Hochschwarzwald;45.0;3.0
+2020-03-16;Böblingen;9.0;0.0
+2020-03-16;Calw;43.0;9.0
+2020-03-16;Emmendingen;35.0;0.0
+2020-03-16;Enzkreis;4.0;1.0
+2020-03-16;Esslingen;123.0;12.0
+2020-03-16;Freiburg im Breisgau (Stadtkreis);53.0;10.0
+2020-03-16;Freudenstadt;8.0;1.0
+2020-03-16;Göppingen;29.0;13.0
+2020-03-16;Heidelberg (Stadtkreis);2.0;-1.0
+2020-03-16;Heidenheim;21.0;0.0
+2020-03-16;Heilbronn;50.0;3.0
+2020-03-16;Heilbronn (Stadtkreis);4.0;0.0
+2020-03-16;Hohenlohekreis;29.0;0.0
+2020-03-16;Karlsruhe;24.0;-5.0
+2020-03-16;Karlsruhe (Stadtkreis);14.0;0.0
+2020-03-16;Konstanz;20.0;0.0
+2020-03-16;Ludwigsburg;38.0;0.0
+2020-03-16;Lörrach;10.0;0.0
+2020-03-16;Main-Tauber-Kreis;31.0;0.0
+2020-03-16;Mannheim (Stadtkreis);27.0;0.0
+2020-03-16;Neckar-Odenwald-Kreis;7.0;-3.0
+2020-03-16;Ortenaukreis;28.0;3.0
+2020-03-16;Ostalbkreis;31.0;0.0
+2020-03-16;Pforzheim (Stadtkreis);5.0;1.0
+2020-03-16;Rastatt;34.0;8.0
+2020-03-16;Ravensburg;12.0;4.0
+2020-03-16;Rems-Murr-Kreis;23.0;0.0
+2020-03-16;Reutlingen;31.0;12.0
+2020-03-16;Rhein-Neckar-Kreis;38.0;0.0
+2020-03-16;Rottweil;4.0;1.0
+2020-03-16;Schwarzwald-Baar-Kreis;6.0;0.0
+2020-03-16;Schwäbisch Hall;21.0;0.0
+2020-03-16;Sigmaringen;16.0;4.0
+2020-03-16;Stuttgart;60.0;0.0
+2020-03-16;Tuttlingen;5.0;0.0
+2020-03-16;Tübingen;61.0;20.0
+2020-03-16;Ulm (Stadtkreis);13.0;1.0
+2020-03-16;Waldshut;4.0;0.0
+2020-03-16;Zollernalbkreis;33.0;12.0
+2020-03-17;Alb-Donau-Kreis;24.0;11.0
+2020-03-17;Baden-Baden (Stadtkreis);12.0;5.0
+2020-03-17;Biberach;17.0;12.0
+2020-03-17;Bodenseekreis;31.0;2.0
+2020-03-17;Breisgau-Hochschwarzwald;54.0;9.0
+2020-03-17;Böblingen;28.0;19.0
+2020-03-17;Calw;51.0;8.0
+2020-03-17;Emmendingen;59.0;24.0
+2020-03-17;Enzkreis;9.0;5.0
+2020-03-17;Esslingen;128.0;5.0
+2020-03-17;Freiburg im Breisgau (Stadtkreis);62.0;9.0
+2020-03-17;Freudenstadt;10.0;2.0
+2020-03-17;Göppingen;39.0;10.0
+2020-03-17;Heidelberg (Stadtkreis);2.0;0.0
+2020-03-17;Heidenheim;17.0;-4.0
+2020-03-17;Heilbronn;57.0;7.0
+2020-03-17;Heilbronn (Stadtkreis);9.0;5.0
+2020-03-17;Hohenlohekreis;64.0;35.0
+2020-03-17;Karlsruhe;47.0;23.0
+2020-03-17;Karlsruhe (Stadtkreis);26.0;12.0
+2020-03-17;Konstanz;28.0;8.0
+2020-03-17;Ludwigsburg;87.0;49.0
+2020-03-17;Lörrach;16.0;6.0
+2020-03-17;Main-Tauber-Kreis;31.0;0.0
+2020-03-17;Mannheim (Stadtkreis);27.0;0.0
+2020-03-17;Neckar-Odenwald-Kreis;14.0;7.0
+2020-03-17;Ortenaukreis;38.0;10.0
+2020-03-17;Ostalbkreis;41.0;10.0
+2020-03-17;Pforzheim (Stadtkreis);6.0;1.0
+2020-03-17;Rastatt;37.0;3.0
+2020-03-17;Ravensburg;13.0;1.0
+2020-03-17;Rems-Murr-Kreis;49.0;26.0
+2020-03-17;Reutlingen;31.0;0.0
+2020-03-17;Rhein-Neckar-Kreis;76.0;38.0
+2020-03-17;Rottweil;5.0;1.0
+2020-03-17;Schwarzwald-Baar-Kreis;16.0;10.0
+2020-03-17;Schwäbisch Hall;34.0;13.0
+2020-03-17;Sigmaringen;22.0;6.0
+2020-03-17;Stuttgart;196.0;136.0
+2020-03-17;Tuttlingen;5.0;0.0
+2020-03-17;Tübingen;67.0;6.0
+2020-03-17;Ulm (Stadtkreis);19.0;6.0
+2020-03-17;Waldshut;4.0;0.0
+2020-03-17;Zollernalbkreis;33.0;0.0
+2020-03-18;Alb-Donau-Kreis;26.0;2.0
+2020-03-18;Baden-Baden (Stadtkreis);14.0;2.0
+2020-03-18;Biberach;17.0;0.0
+2020-03-18;Bodenseekreis;39.0;8.0
+2020-03-18;Breisgau-Hochschwarzwald;78.0;24.0
+2020-03-18;Böblingen;28.0;0.0
+2020-03-18;Calw;61.0;10.0
+2020-03-18;Emmendingen;60.0;1.0
+2020-03-18;Enzkreis;12.0;3.0
+2020-03-18;Esslingen;193.0;65.0
+2020-03-18;Freiburg im Breisgau (Stadtkreis);79.0;17.0
+2020-03-18;Freudenstadt;14.0;4.0
+2020-03-18;Göppingen;59.0;20.0
+2020-03-18;Heidelberg (Stadtkreis);3.0;1.0
+2020-03-18;Heidenheim;17.0;0.0
+2020-03-18;Heilbronn;71.0;14.0
+2020-03-18;Heilbronn (Stadtkreis);13.0;4.0
+2020-03-18;Hohenlohekreis;135.0;71.0
+2020-03-18;Karlsruhe;63.0;16.0
+2020-03-18;Karlsruhe (Stadtkreis);29.0;3.0
+2020-03-18;Konstanz;34.0;6.0
+2020-03-18;Ludwigsburg;112.0;25.0
+2020-03-18;Lörrach;25.0;9.0
+2020-03-18;Main-Tauber-Kreis;31.0;0.0
+2020-03-18;Mannheim (Stadtkreis);71.0;44.0
+2020-03-18;Neckar-Odenwald-Kreis;17.0;3.0
+2020-03-18;Ortenaukreis;45.0;7.0
+2020-03-18;Ostalbkreis;46.0;5.0
+2020-03-18;Pforzheim (Stadtkreis);7.0;1.0
+2020-03-18;Rastatt;53.0;16.0
+2020-03-18;Ravensburg;55.0;42.0
+2020-03-18;Rems-Murr-Kreis;49.0;0.0
+2020-03-18;Reutlingen;33.0;2.0
+2020-03-18;Rhein-Neckar-Kreis;127.0;51.0
+2020-03-18;Rottweil;3.0;-2.0
+2020-03-18;Schwarzwald-Baar-Kreis;27.0;11.0
+2020-03-18;Schwäbisch Hall;47.0;13.0
+2020-03-18;Sigmaringen;28.0;6.0
+2020-03-18;Stuttgart;196.0;0.0
+2020-03-18;Tuttlingen;7.0;2.0
+2020-03-18;Tübingen;85.0;18.0
+2020-03-18;Ulm (Stadtkreis);19.0;0.0
+2020-03-18;Waldshut;5.0;1.0
+2020-03-18;Zollernalbkreis;51.0;18.0
+2020-03-19;Alb-Donau-Kreis;26.0;0.0
+2020-03-19;Baden-Baden (Stadtkreis);17.0;3.0
+2020-03-19;Biberach;45.0;28.0
+2020-03-19;Bodenseekreis;62.0;23.0
+2020-03-19;Breisgau-Hochschwarzwald;101.0;23.0
+2020-03-19;Böblingen;28.0;0.0
+2020-03-19;Calw;76.0;15.0
+2020-03-19;Emmendingen;99.0;39.0
+2020-03-19;Enzkreis;21.0;9.0
+2020-03-19;Esslingen;234.0;41.0
+2020-03-19;Freiburg im Breisgau (Stadtkreis);114.0;35.0
+2020-03-19;Freudenstadt;14.0;0.0
+2020-03-19;Göppingen;60.0;1.0
+2020-03-19;Heidelberg (Stadtkreis);3.0;0.0
+2020-03-19;Heidenheim;34.0;17.0
+2020-03-19;Heilbronn;110.0;39.0
+2020-03-19;Heilbronn (Stadtkreis);19.0;6.0
+2020-03-19;Hohenlohekreis;154.0;19.0
+2020-03-19;Karlsruhe;75.0;12.0
+2020-03-19;Karlsruhe (Stadtkreis);34.0;5.0
+2020-03-19;Konstanz;43.0;9.0
+2020-03-19;Ludwigsburg;126.0;14.0
+2020-03-19;Lörrach;41.0;16.0
+2020-03-19;Main-Tauber-Kreis;33.0;2.0
+2020-03-19;Mannheim (Stadtkreis);73.0;2.0
+2020-03-19;Neckar-Odenwald-Kreis;20.0;3.0
+2020-03-19;Ortenaukreis;55.0;10.0
+2020-03-19;Ostalbkreis;85.0;39.0
+2020-03-19;Pforzheim (Stadtkreis);11.0;4.0
+2020-03-19;Rastatt;64.0;11.0
+2020-03-19;Ravensburg;88.0;33.0
+2020-03-19;Rems-Murr-Kreis;79.0;30.0
+2020-03-19;Reutlingen;43.0;10.0
+2020-03-19;Rhein-Neckar-Kreis;144.0;17.0
+2020-03-19;Rottweil;2.0;-1.0
+2020-03-19;Schwarzwald-Baar-Kreis;28.0;1.0
+2020-03-19;Schwäbisch Hall;61.0;14.0
+2020-03-19;Sigmaringen;41.0;13.0
+2020-03-19;Stuttgart;196.0;0.0
+2020-03-19;Tuttlingen;10.0;3.0
+2020-03-19;Tübingen;93.0;8.0
+2020-03-19;Ulm (Stadtkreis);21.0;2.0
+2020-03-19;Waldshut;5.0;0.0
+2020-03-19;Zollernalbkreis;60.0;9.0
+2020-03-20;Alb-Donau-Kreis;39.0;13.0
+2020-03-20;Baden-Baden (Stadtkreis);21.0;4.0
+2020-03-20;Biberach;45.0;0.0
+2020-03-20;Bodenseekreis;71.0;9.0
+2020-03-20;Breisgau-Hochschwarzwald;134.0;33.0
+2020-03-20;Böblingen;67.0;39.0
+2020-03-20;Calw;92.0;16.0
+2020-03-20;Emmendingen;110.0;11.0
+2020-03-20;Enzkreis;24.0;3.0
+2020-03-20;Esslingen;323.0;89.0
+2020-03-20;Freiburg im Breisgau (Stadtkreis);150.0;36.0
+2020-03-20;Freudenstadt;14.0;0.0
+2020-03-20;Göppingen;97.0;37.0
+2020-03-20;Heidelberg (Stadtkreis);3.0;0.0
+2020-03-20;Heidenheim;39.0;5.0
+2020-03-20;Heilbronn;118.0;8.0
+2020-03-20;Heilbronn (Stadtkreis);20.0;1.0
+2020-03-20;Hohenlohekreis;182.0;28.0
+2020-03-20;Karlsruhe;96.0;21.0
+2020-03-20;Karlsruhe (Stadtkreis);42.0;8.0
+2020-03-20;Konstanz;52.0;9.0
+2020-03-20;Ludwigsburg;175.0;49.0
+2020-03-20;Lörrach;57.0;16.0
+2020-03-20;Main-Tauber-Kreis;36.0;3.0
+2020-03-20;Mannheim (Stadtkreis);80.0;7.0
+2020-03-20;Neckar-Odenwald-Kreis;26.0;6.0
+2020-03-20;Ortenaukreis;71.0;16.0
+2020-03-20;Ostalbkreis;91.0;6.0
+2020-03-20;Pforzheim (Stadtkreis);14.0;3.0
+2020-03-20;Rastatt;81.0;17.0
+2020-03-20;Ravensburg;110.0;22.0
+2020-03-20;Rems-Murr-Kreis;117.0;38.0
+2020-03-20;Reutlingen;94.0;51.0
+2020-03-20;Rhein-Neckar-Kreis;215.0;71.0
+2020-03-20;Rottweil;4.0;2.0
+2020-03-20;Schwarzwald-Baar-Kreis;39.0;11.0
+2020-03-20;Schwäbisch Hall;98.0;37.0
+2020-03-20;Sigmaringen;67.0;26.0
+2020-03-20;Stuttgart;308.0;112.0
+2020-03-20;Tuttlingen;13.0;3.0
+2020-03-20;Tübingen;112.0;19.0
+2020-03-20;Ulm (Stadtkreis);35.0;14.0
+2020-03-20;Waldshut;13.0;8.0
+2020-03-20;Zollernalbkreis;70.0;10.0
+2020-03-21;Alb-Donau-Kreis;39.0;0.0
+2020-03-21;Baden-Baden (Stadtkreis);21.0;0.0
+2020-03-21;Biberach;45.0;0.0
+2020-03-21;Bodenseekreis;71.0;0.0
+2020-03-21;Breisgau-Hochschwarzwald;134.0;0.0
+2020-03-21;Böblingen;67.0;0.0
+2020-03-21;Calw;108.0;16.0
+2020-03-21;Emmendingen;110.0;0.0
+2020-03-21;Enzkreis;33.0;9.0
+2020-03-21;Esslingen;323.0;0.0
+2020-03-21;Freiburg im Breisgau (Stadtkreis);150.0;0.0
+2020-03-21;Freudenstadt;14.0;0.0
+2020-03-21;Göppingen;97.0;0.0
+2020-03-21;Heidelberg (Stadtkreis);5.0;2.0
+2020-03-21;Heidenheim;47.0;8.0
+2020-03-21;Heilbronn;140.0;22.0
+2020-03-21;Heilbronn (Stadtkreis);20.0;0.0
+2020-03-21;Hohenlohekreis;222.0;40.0
+2020-03-21;Karlsruhe;96.0;0.0
+2020-03-21;Karlsruhe (Stadtkreis);42.0;0.0
+2020-03-21;Konstanz;52.0;0.0
+2020-03-21;Ludwigsburg;175.0;0.0
+2020-03-21;Lörrach;57.0;0.0
+2020-03-21;Main-Tauber-Kreis;36.0;0.0
+2020-03-21;Mannheim (Stadtkreis);80.0;0.0
+2020-03-21;Neckar-Odenwald-Kreis;26.0;0.0
+2020-03-21;Ortenaukreis;71.0;0.0
+2020-03-21;Ostalbkreis;91.0;0.0
+2020-03-21;Pforzheim (Stadtkreis);16.0;2.0
+2020-03-21;Rastatt;81.0;0.0
+2020-03-21;Ravensburg;110.0;0.0
+2020-03-21;Rems-Murr-Kreis;117.0;0.0
+2020-03-21;Reutlingen;95.0;1.0
+2020-03-21;Rhein-Neckar-Kreis;240.0;25.0
+2020-03-21;Rottweil;8.0;4.0
+2020-03-21;Schwarzwald-Baar-Kreis;48.0;9.0
+2020-03-21;Schwäbisch Hall;98.0;0.0
+2020-03-21;Sigmaringen;82.0;15.0
+2020-03-21;Stuttgart;308.0;0.0
+2020-03-21;Tuttlingen;13.0;0.0
+2020-03-21;Tübingen;112.0;0.0
+2020-03-21;Ulm (Stadtkreis);35.0;0.0
+2020-03-21;Waldshut;13.0;0.0
+2020-03-21;Zollernalbkreis;70.0;0.0
+2020-03-22;Alb-Donau-Kreis;44.0;5.0
+2020-03-22;Baden-Baden (Stadtkreis);25.0;4.0
+2020-03-22;Biberach;45.0;0.0
+2020-03-22;Bodenseekreis;83.0;12.0
+2020-03-22;Breisgau-Hochschwarzwald;167.0;33.0
+2020-03-22;Böblingen;117.0;50.0
+2020-03-22;Calw;120.0;12.0
+2020-03-22;Emmendingen;121.0;11.0
+2020-03-22;Enzkreis;33.0;0.0
+2020-03-22;Esslingen;362.0;39.0
+2020-03-22;Freiburg im Breisgau (Stadtkreis);191.0;41.0
+2020-03-22;Freudenstadt;14.0;0.0
+2020-03-22;Göppingen;97.0;0.0
+2020-03-22;Heidelberg (Stadtkreis);5.0;0.0
+2020-03-22;Heidenheim;57.0;10.0
+2020-03-22;Heilbronn;165.0;25.0
+2020-03-22;Heilbronn (Stadtkreis);28.0;8.0
+2020-03-22;Hohenlohekreis;222.0;0.0
+2020-03-22;Karlsruhe;104.0;8.0
+2020-03-22;Karlsruhe (Stadtkreis);42.0;0.0
+2020-03-22;Konstanz;52.0;0.0
+2020-03-22;Ludwigsburg;236.0;61.0
+2020-03-22;Lörrach;57.0;0.0
+2020-03-22;Main-Tauber-Kreis;36.0;0.0
+2020-03-22;Mannheim (Stadtkreis);80.0;0.0
+2020-03-22;Neckar-Odenwald-Kreis;30.0;4.0
+2020-03-22;Ortenaukreis;82.0;11.0
+2020-03-22;Ostalbkreis;113.0;22.0
+2020-03-22;Pforzheim (Stadtkreis);16.0;0.0
+2020-03-22;Rastatt;100.0;19.0
+2020-03-22;Ravensburg;110.0;0.0
+2020-03-22;Rems-Murr-Kreis;117.0;0.0
+2020-03-22;Reutlingen;95.0;0.0
+2020-03-22;Rhein-Neckar-Kreis;240.0;0.0
+2020-03-22;Rottweil;8.0;0.0
+2020-03-22;Schwarzwald-Baar-Kreis;69.0;21.0
+2020-03-22;Schwäbisch Hall;111.0;13.0
+2020-03-22;Sigmaringen;83.0;1.0
+2020-03-22;Stuttgart;350.0;42.0
+2020-03-22;Tuttlingen;15.0;2.0
+2020-03-22;Tübingen;133.0;21.0
+2020-03-22;Ulm (Stadtkreis);40.0;5.0
+2020-03-22;Waldshut;15.0;2.0
+2020-03-22;Zollernalbkreis;70.0;0.0
+2020-03-23;Alb-Donau-Kreis;60.0;16.0
+2020-03-23;Baden-Baden (Stadtkreis);33.0;8.0
+2020-03-23;Biberach;74.0;29.0
+2020-03-23;Bodenseekreis;83.0;0.0
+2020-03-23;Breisgau-Hochschwarzwald;178.0;11.0
+2020-03-23;Böblingen;187.0;70.0
+2020-03-23;Calw;150.0;30.0
+2020-03-23;Emmendingen;123.0;2.0
+2020-03-23;Enzkreis;37.0;4.0
+2020-03-23;Esslingen;435.0;73.0
+2020-03-23;Freiburg im Breisgau (Stadtkreis);212.0;21.0
+2020-03-23;Freudenstadt;39.0;25.0
+2020-03-23;Göppingen;166.0;69.0
+2020-03-23;Heidelberg (Stadtkreis);89.0;84.0
+2020-03-23;Heidenheim;60.0;3.0
+2020-03-23;Heilbronn;197.0;32.0
+2020-03-23;Heilbronn (Stadtkreis);55.0;27.0
+2020-03-23;Hohenlohekreis;257.0;35.0
+2020-03-23;Karlsruhe;154.0;50.0
+2020-03-23;Karlsruhe (Stadtkreis);60.0;18.0
+2020-03-23;Konstanz;70.0;18.0
+2020-03-23;Ludwigsburg;250.0;14.0
+2020-03-23;Lörrach;57.0;0.0
+2020-03-23;Main-Tauber-Kreis;53.0;17.0
+2020-03-23;Mannheim (Stadtkreis);80.0;0.0
+2020-03-23;Neckar-Odenwald-Kreis;35.0;5.0
+2020-03-23;Ortenaukreis;104.0;22.0
+2020-03-23;Ostalbkreis;121.0;8.0
+2020-03-23;Pforzheim (Stadtkreis);18.0;2.0
+2020-03-23;Rastatt;146.0;46.0
+2020-03-23;Ravensburg;127.0;17.0
+2020-03-23;Rems-Murr-Kreis;117.0;0.0
+2020-03-23;Reutlingen;113.0;18.0
+2020-03-23;Rhein-Neckar-Kreis;276.0;36.0
+2020-03-23;Rottweil;8.0;0.0
+2020-03-23;Schwarzwald-Baar-Kreis;78.0;9.0
+2020-03-23;Schwäbisch Hall;145.0;34.0
+2020-03-23;Sigmaringen;99.0;16.0
+2020-03-23;Stuttgart;441.0;91.0
+2020-03-23;Tuttlingen;15.0;0.0
+2020-03-23;Tübingen;144.0;11.0
+2020-03-23;Ulm (Stadtkreis);53.0;13.0
+2020-03-23;Waldshut;25.0;10.0
+2020-03-23;Zollernalbkreis;109.0;39.0
